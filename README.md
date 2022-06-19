@@ -1,1 +1,1 @@
-# Gulimall
+Full stack online shopping platform
